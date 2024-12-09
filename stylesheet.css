@@ -1,0 +1,11 @@
+.headerpanel {
+    background-color: red;  
+}
+
+a {
+    display: inline;
+}
+
+#home {
+    margin-right: 80%;
+}
