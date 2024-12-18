@@ -1,13 +1,28 @@
 body {
     color: white;
+    background-color: pink;
+    margin: 0;
+    width: 100%;
+}
+
+#container {
+    padding-left: 100px;
+    padding-right: 100px;
 }
 
 #headerpanel {
     background-color: #9292ff;
     border-style: solid;
-    color: red;
+    color: #10ff30;
+    margin: 0;
+}
+
+.sections {
+    background-color: red;
+    margin: 0;
 }
 
 a {
     color: white;
 }
+
