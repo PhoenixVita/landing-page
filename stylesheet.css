@@ -1,11 +1,13 @@
-.headerpanel {
-    background-color: red;  
+body {
+    color: white;
+}
+
+#headerpanel {
+    background-color: #9292ff;
+    border-style: solid;
+    color: red;
 }
 
 a {
-    display: inline;
-}
-
-#home {
-    margin-right: 80%;
+    color: white;
 }
